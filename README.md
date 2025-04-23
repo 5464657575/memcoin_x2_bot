@@ -1,1 +1,0 @@
-# memcoin_x2_bot

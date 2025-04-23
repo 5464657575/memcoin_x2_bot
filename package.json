@@ -1,0 +1,14 @@
+
+{
+  "name": "memcoin_x2_bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram intelligent pour copier des trades sur Solana",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
